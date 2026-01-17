@@ -5,7 +5,7 @@ This contains multiple academic and self-learning projects developed during my B
 
 👨‍🎓 About Me
 
-Name: Abdullah Mughal
+Name: Abdullah
 
 Degree: Bachelor of Computer Engineering
 
